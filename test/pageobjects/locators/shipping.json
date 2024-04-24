@@ -1,0 +1,7 @@
+{
+    "inpBxFirstName":"[id='first-name']",
+    "inpBxLastName":"[id='last-name']",
+    "inpBxPostalCode":"[id='postal-code']",
+    "btncancel":"//a[@class='cart_cancel_link btn_secondary']",
+    "btnContinue":"//input[@class='btn_primary cart_button']"
+}

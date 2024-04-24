@@ -1,0 +1,4 @@
+{
+    "addToCart":"[class='btn_primary btn_inventory']",
+    "backButton":"[class='inventory_details_back_button']"
+}

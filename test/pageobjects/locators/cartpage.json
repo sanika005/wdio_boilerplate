@@ -1,0 +1,10 @@
+{
+    "sauceLabsBackPackremoveBtn":"//a[@id='item_4_title_link']/following-sibling::div/button",
+    "sauceLabsBikeLightremoveBtn":"//a[@id='item_0_title_link']/following-sibling::div/button",
+    "sauceLabsBoltTshirtremoveBtn":"//a[@id='item_1_title_link']/following-sibling::div/button",
+    "sauceLabsFleeceJacketremoveBtn":"//a[@id='item_5_title_link']/following-sibling::div/button",
+    "sauceLabsOnesieremoveBtn":"//a[@id='item_2_title_link']/following-sibling::div/button",
+    "testallTheThingsT_shirt_RedremoveBtn":"//a[@id='item_3_title_link']/following-sibling::div/button",
+    "continueShoppingBtn":"[class='btn_secondary']",
+    "checkoutBtn":"[class='btn_action checkout_button']"
+}
